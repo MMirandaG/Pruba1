@@ -1,0 +1,118 @@
+1
+00:00:10,560 --> 00:00:16,200
+La escala en los planos y mapas, para 
+saber manejar un plano o mapa debemos  
+
+2
+00:00:16,200 --> 00:00:22,500
+de saber interpretar la escala que tienen. 
+¿Qué es la escala en los mapas y planos?
+
+3
+00:00:24,900 --> 00:00:30,060
+La escala representa las relaciones 
+existente entre las medidas de un plano  
+
+4
+00:00:30,060 --> 00:00:38,340
+o mapa y las medidas que hay en la realidad, 
+por ejemplo: Comencemos por la escala numérica,  
+
+5
+00:00:39,540 --> 00:00:45,780
+la escala numérica expresa la escala con 
+números, en este caso, en esta escala,  
+
+6
+00:00:46,980 --> 00:00:55,140
+un centímetro en el mapa serán 1.000 centímetros 
+en la realidad. Aquí vemos un niño y una niña que  
+
+7
+00:00:55,140 --> 00:01:02,580
+quieren desplazarse hasta el colegio, desde el 
+punto en el que se encuentran hasta el colegio.  
+
+8
+00:01:04,140 --> 00:01:12,420
+Si lo medimos con la regla en el mapa hay 
+13 centímetros, cada centímetro del mapa,  
+
+9
+00:01:12,420 --> 00:01:19,500
+corresponde con 1.000 centímetros en la 
+realidad, si esto lo trasladamos a la realidad  
+
+10
+00:01:21,240 --> 00:01:28,200
+ese centímetro en el mapa serán 1.000 
+centímetros en la realidad, o sea 10 metros.  
+
+11
+00:01:29,700 --> 00:01:38,400
+La distancia total al colegio es de 13 centímetros 
+por lo tanto si pensáis un poco podréis  
+
+12
+00:01:38,400 --> 00:01:46,500
+averiguar... ¿Cuántos centímetros se corresponden 
+en la realidad? hemos dicho que un centímetro son  
+
+13
+00:01:46,500 --> 00:01:54,960
+mil centímetros en la realidad, si esto se repite 
+13 veces ya que hay 13 centímetros en el plano,
+
+14
+00:01:56,040 --> 00:02:01,860
+obtendremos un total de 13 veces 1.000 centímetros  
+
+15
+00:02:03,780 --> 00:02:11,520
+que son 13.000 centímetros, que pasados a 
+metros podemos decir que son 130 metros.
+
+16
+00:02:11,520 --> 00:02:21,960
+En resumen, si tenemos una escala 
+de 1:1.000 centímetros esto quiere  
+
+17
+00:02:21,960 --> 00:02:30,600
+decir que un centímetro en el mapa son 
+1.000 centímetros en la realidad y si  
+
+18
+00:02:30,600 --> 00:02:39,240
+tenemos 13 centímetros en el mapa, en 
+la realidad serán 13.000 centímetros.
+
+19
+00:02:41,460 --> 00:02:47,820
+Veamos ahora otro tipo de escala, la escala 
+gráfica, se representa por segmentos,  
+
+20
+00:02:47,820 --> 00:02:57,300
+en este caso medimos con la regla cada segmento 
+y vemos que el segmento negro mide un centímetro,  
+
+21
+00:02:58,860 --> 00:03:08,400
+que corresponde con 10 metros en la realidad cada 
+segmento va a corresponder con 10 metros en la  
+
+22
+00:03:08,400 --> 00:03:17,340
+realidad ya que cada segmento mide un centímetro, 
+cuatro segmentos serán 40 metros en la realidad,  
+
+23
+00:03:18,960 --> 00:03:24,840
+de esta manera como la distancia al 
+colegio hemos visto que son 13 centímetros,  
+
+24
+00:03:24,840 --> 00:03:30,300
+tendremos un total en la realidad de 130 metros.
+
